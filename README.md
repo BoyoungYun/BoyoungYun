@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Boyoung
 I'm a beginner frontend developer.
 
-Skills: REACT / JS / HTML / CSS / SCSS / C / C++ / JAVA
+Skills: REACT / JS / TS / HTML / CSS / SCSS / C / C++ / JAVA / Python
 
 - 🔭 I’m currently working on Inha University 
 - 🌱 I’m currently learning React, Javascript 
