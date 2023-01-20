@@ -1,7 +1,7 @@
 <div align=center>
 <h3>:baby_chick:I'm frontend developer:baby_chick:</h3>
 <br/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoyoungYun&count_bg=%23FF76A3&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<h3>:pencil2:Tech Stack:pencil2:</h3><br/>
+<br/><h3>:pencil2:Tech Stack:pencil2:</h3><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <br/><br/>
 <h3>:computer:BLOG & SNS:computer:</h3>
-<img src="http://img.shields.io/badge/-Tistory-F361A6?style=flat-square&logo=Tistory&link=https://allnightcoding.tistory.com/">
-<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qhdud4357@gmail.com"><br/><br/><br/>
+<a href="https://allnightcoding.tistory.com/"><img src="http://img.shields.io/badge/-Tistory-F361A6?style=flat-square&logo=Tistory&link=https://allnightcoding.tistory.com/"></a>
+<a href="mailto:qhdud4357@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a><br/><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyoungYun&layout=compact&theme=buefy"><br/><br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoyoungYun&show_icons=true&theme=buefy)  
