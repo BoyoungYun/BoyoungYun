@@ -1,6 +1,7 @@
 <div align=center>
 <h3>:baby_chick:I'm frontend developer:baby_chick:</h3>
-<br/><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoyoungYun&count_bg=%23FF76A3&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br/><h3>📚Study</h3><br/>
+<span>인하대학교 컴퓨터공학부 졸업 (2024.08)</span><br/>
 <br/><h3>:pencil2:Tech Stack:pencil2:</h3><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
